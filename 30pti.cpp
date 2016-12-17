@@ -3,7 +3,6 @@
 #include <vector>
 
 
-
 using namespace std
 /*archi inutili per i 30 punti
 struct arco{
